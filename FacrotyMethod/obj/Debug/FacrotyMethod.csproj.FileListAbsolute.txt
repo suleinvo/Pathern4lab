@@ -1,0 +1,6 @@
+c:\users\suleinv\documents\visual studio 2012\Projects\FacrotyMethod\FacrotyMethod\bin\Debug\FacrotyMethod.exe.config
+c:\users\suleinv\documents\visual studio 2012\Projects\FacrotyMethod\FacrotyMethod\obj\Debug\FacrotyMethod.csprojResolveAssemblyReference.cache
+c:\users\suleinv\documents\visual studio 2012\Projects\FacrotyMethod\FacrotyMethod\bin\Debug\FacrotyMethod.exe
+c:\users\suleinv\documents\visual studio 2012\Projects\FacrotyMethod\FacrotyMethod\bin\Debug\FacrotyMethod.pdb
+c:\users\suleinv\documents\visual studio 2012\Projects\FacrotyMethod\FacrotyMethod\obj\Debug\FacrotyMethod.exe
+c:\users\suleinv\documents\visual studio 2012\Projects\FacrotyMethod\FacrotyMethod\obj\Debug\FacrotyMethod.pdb
